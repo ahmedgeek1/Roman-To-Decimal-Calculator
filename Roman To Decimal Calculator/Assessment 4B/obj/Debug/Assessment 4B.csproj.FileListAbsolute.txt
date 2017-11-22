@@ -1,0 +1,18 @@
+C:\Users\24210285\Desktop\nez assessment 4B\Assessment 4B\Assessment 4B\bin\Debug\Assessment 4B.exe.config
+C:\Users\24210285\Desktop\nez assessment 4B\Assessment 4B\Assessment 4B\bin\Debug\Assessment 4B.exe
+C:\Users\24210285\Desktop\nez assessment 4B\Assessment 4B\Assessment 4B\bin\Debug\Assessment 4B.pdb
+C:\Users\24210285\Desktop\nez assessment 4B\Assessment 4B\Assessment 4B\obj\Debug\Assessment_4B.Properties.Resources.resources
+C:\Users\24210285\Desktop\nez assessment 4B\Assessment 4B\Assessment 4B\obj\Debug\Assessment 4B.csproj.GenerateResource.Cache
+C:\Users\24210285\Desktop\nez assessment 4B\Assessment 4B\Assessment 4B\obj\Debug\Assessment 4B.exe
+C:\Users\24210285\Desktop\nez assessment 4B\Assessment 4B\Assessment 4B\obj\Debug\Assessment 4B.pdb
+C:\Users\24210285\Desktop\nez assessment 4B\Assessment 4B\Assessment 4B\obj\Debug\Assessment_4B.romanToDecimalConverterForm.resources
+C:\Users\24210285\Desktop\nez assessment 4B\Assessment 4B\Assessment 4B\obj\Debug\Assessment 4B.csprojResolveAssemblyReference.cache
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment 4B\Assessment 4B\bin\Debug\Assessment 4B.exe.config
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment 4B\Assessment 4B\obj\Debug\Assessment 4B.exe
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment 4B\Assessment 4B\obj\Debug\Assessment 4B.pdb
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment 4B\Assessment 4B\bin\Debug\Assessment 4B.exe
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment 4B\Assessment 4B\bin\Debug\Assessment 4B.pdb
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment 4B\Assessment 4B\obj\Debug\Assessment 4B.csprojResolveAssemblyReference.cache
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment 4B\Assessment 4B\obj\Debug\Assessment_4B.romanToDecimalConverterForm.resources
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment 4B\Assessment 4B\obj\Debug\Assessment_4B.Properties.Resources.resources
+C:\Users\24210285\Desktop\Week4 Assignments\Assessment 4B\Assessment 4B\obj\Debug\Assessment 4B.csproj.GenerateResource.Cache
